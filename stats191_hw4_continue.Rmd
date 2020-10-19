@@ -1,0 +1,16 @@
+---
+title: "Stats191 Homework 4 Continuation"
+author: "Zolboo Chuluunbaatar"
+date: "5/21/2020"
+output: html_document
+---
+
+
+## Question 5. 
+
+```{r}
+library(ElemStatLearn)
+data(prostate)
+head(prostate)
+```
+
